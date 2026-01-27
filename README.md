@@ -1,0 +1,1 @@
+# projekt-sk2-szachy
