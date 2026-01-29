@@ -6,8 +6,6 @@ Projekt wykorzystuje standardowe biblioteki systemowe POSIX oraz C++:
 * **pthread.h** – wielowątkowość
 * **unistd.h, stdio.h, stdlib.h** – funkcje systemowe i wejścia/wyjścia
 
-##  Jak uruchomić projekt
-
 ### Kompilacja
 Wymagany jest kompilator `g++` oraz system z rodziny Linux (lub WSL).
 
